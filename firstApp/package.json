@@ -1,0 +1,19 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "First node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ssdramesh/nodejs/firstApp"
+  },
+  "author": "ssdramesh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
