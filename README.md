@@ -1,2 +1,2 @@
 # nodejs
-This is my first node.js application
+My experiments with node.js applications
